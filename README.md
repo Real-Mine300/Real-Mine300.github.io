@@ -1,3 +1,3 @@
 # Real-Mine300.github.io
 
-## heading 2 This site
+## This site is to be changed
